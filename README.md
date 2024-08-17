@@ -74,7 +74,7 @@ Restaurant_Cuisines
 ## Data Modeling
 
 Power BI automatically connected related tables resulting in a star schema model.
-![]()
+![](RRD_Model.png)
 
 ## Data Transformation
 
@@ -83,8 +83,10 @@ Data was cleaned and transformed with the Power Query Editor of Power BI
 - Created the Age group, service rating, Food rating and overall rating category using conditional columns.
 - Created two dashboards for this dataset, one for consumers behavior insights and the other for restaurant insights.
 
-## DASHBOARD
-![]()
+## DASHBOARDS
+![](Dashboard1.png)
+
+![](Dashboard2.png)
 
 ## Consumer Insights
 
